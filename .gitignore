@@ -130,3 +130,6 @@ dmypy.json
 
 # draft files
 test.ipynb
+
+# dataset folder
+data
