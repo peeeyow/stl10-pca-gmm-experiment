@@ -133,3 +133,6 @@ test.ipynb
 
 # dataset folder
 data
+
+# projection matrix
+projection_matrix.npy
