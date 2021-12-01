@@ -136,3 +136,6 @@ data
 
 # projection matrix
 projection_matrix.npy
+
+# variances
+variances.npy
