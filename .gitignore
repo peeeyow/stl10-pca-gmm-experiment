@@ -139,3 +139,6 @@ projection_matrix.npy
 
 # variances
 variances.npy
+
+# unlabeled code
+optimal_code_unlabeled.npy
